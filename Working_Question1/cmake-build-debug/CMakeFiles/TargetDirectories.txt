@@ -1,3 +1,3 @@
-/home/kagan/working_q1/cmake-build-debug/CMakeFiles/working_q1.dir
-/home/kagan/working_q1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kagan/working_q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kagan/Working Questions on OOP I Course/Working_Question1/cmake-build-debug/CMakeFiles/working_q1.dir
+/home/kagan/Working Questions on OOP I Course/Working_Question1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kagan/Working Questions on OOP I Course/Working_Question1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

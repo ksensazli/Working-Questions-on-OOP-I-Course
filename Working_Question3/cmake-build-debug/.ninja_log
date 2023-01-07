@@ -1,6 +1,4 @@
 # ninja log v5
-479	531	1673092116662741681	working_q3	b8a12ff9769d88f8
-0	479	1673092116610741651	CMakeFiles/working_q3.dir/main.cpp.o	bf07aa732e9680b9
-1	380	1673092554742771443	CMakeFiles/working_q3.dir/main.cpp.o	bf07aa732e9680b9
-1	537	1673092554898771395	CMakeFiles/working_q3.dir/Point.cpp.o	e7d9bd6ced122fe1
 537	594	1673092554954771377	working_q3	aac1e1888f60ac4
+1	537	1673092554898771395	CMakeFiles/working_q3.dir/Point.cpp.o	e7d9bd6ced122fe1
+1	380	1673092554742771443	CMakeFiles/working_q3.dir/main.cpp.o	bf07aa732e9680b9

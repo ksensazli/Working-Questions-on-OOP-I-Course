@@ -1,4 +1,4 @@
-/snap/clion/219/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/219/bin/ninja/linux/ninja -G Ninja -S "/home/kagan/Working Questions on OOP I Course/working_q2" -B "/home/kagan/Working Questions on OOP I Course/working_q2/cmake-build-debug"
+/snap/clion/219/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/219/bin/ninja/linux/ninja -G Ninja -S "/home/kagan/Working Questions on OOP I Course/Working_Question2" -B "/home/kagan/Working Questions on OOP I Course/Working_Question2/cmake-build-debug"
 -- The C compiler identification is GNU 9.4.0
 -- The CXX compiler identification is GNU 9.4.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/kagan/Working Questions on OOP I Course/working_q2/cmake-build-debug
+-- Build files have been written to: /home/kagan/Working Questions on OOP I Course/Working_Question2/cmake-build-debug

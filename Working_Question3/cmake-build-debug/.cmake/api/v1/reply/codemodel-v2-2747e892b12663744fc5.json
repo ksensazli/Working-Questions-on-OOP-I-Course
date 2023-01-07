@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "working_q1",
+					"name" : "working_q3",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "working_q1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-working_q1-Debug-014383b2b8614ea7174e.json",
-					"name" : "working_q1",
+					"id" : "working_q3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-working_q3-Debug-35ae1b323e83a0f0bab0.json",
+					"name" : "working_q3",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/kagan/working_q1/cmake-build-debug",
-		"source" : "/home/kagan/working_q1"
+		"build" : "/home/kagan/Working Questions on OOP I Course/Working_Question3/cmake-build-debug",
+		"source" : "/home/kagan/Working Questions on OOP I Course/Working_Question3"
 	},
 	"version" : 
 	{
