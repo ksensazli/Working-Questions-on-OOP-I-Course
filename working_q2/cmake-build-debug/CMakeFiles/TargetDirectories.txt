@@ -1,0 +1,3 @@
+/home/kagan/Working Questions on OOP I Course/working_q2/cmake-build-debug/CMakeFiles/working_q2.dir
+/home/kagan/Working Questions on OOP I Course/working_q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kagan/Working Questions on OOP I Course/working_q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
